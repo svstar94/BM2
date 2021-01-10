@@ -1,0 +1,42 @@
+.main-font{
+    font-family: 'Redressed', cursive;
+}
+
+.footer{
+    text-align: center; 
+    margin-top: 2rem;
+    font-size: .9rem;
+}
+
+div.header{
+    text-align: center; 
+    margin: 2rem 0;
+}
+
+.footer-btn{
+    font-size: .6rem;
+    
+}
+
+@media screen and (max-width:500px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+a.nav-item {
+    margin: 0 1.5rem;
+}
+
+.header-navbar {
+    margin: 1.5rem 0;
+}
